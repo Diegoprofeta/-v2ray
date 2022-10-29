@@ -8,11 +8,11 @@ Projeto_SSH: t.me/ssh_t_project
 ### Instalar ou desinstalar
 Use o usuário root para digitar o seguinte comando para instalar ou desinstalar
 ````
-bash <(curl -s -L https://raw.githubusercontent.com/TelksBr/v2ray/master/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/Diegoprofeta/v2ray/master/install.sh)
 ````
 ** Se o link acima não funcionar, você pode usar o seguinte método **
 ````
-git clone https://github.com/TelksBr/v2ray.git -b master
+git clone https://github.com/Diegoprofeta/v2ray.git -b master
 cd v2ray
 chmod +x install.sh
 ./install.sh local
@@ -135,7 +135,7 @@ Se você não usou o script de instalação de um clique do V2Ray fornecido nest
 Então comece a usar agora, o melhor script de instalação do V2Ray para garantir sua satisfação
 Use o usuário root para digitar o seguinte comando para instalar ou desinstalar
 ````
-bash <(curl -s -L https://raw.githubusercontent.com/TelksBr/v2ray/master/install.sh)
+bash <(curl -s -L https://raw.githubusercontent.com/Diegoprofeta/v2ray/master/install.sh)
 ````
 
 Se ele solicitar curl: command not found , é porque seu pintinho não tem o Curl instalado
